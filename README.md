@@ -20,7 +20,7 @@ var isClassSupported = require( 'detect-class-support' );
 
 #### isClassSupported()
 
-Detects if environment supports ES2015 [`class`][class].
+Detects if a runtime environment supports ES2015 [`class`][class].
 
 ``` javascript
 var bool = isClassSupported()
